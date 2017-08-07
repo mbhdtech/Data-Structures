@@ -1,0 +1,8 @@
+Is Unique
+
+So we first create a boolean array that has the total size of the ascii table (128). This will insure that we cover all possible characters that can be In a string.
+
+We will then run through the list of characters in the string that was used. At every character, we will get the value (Decimal value for each character in the Ascii Table). 
+
+
+From there We will run through the boolean array. If it is true (or we pick up a match, we return false. If it is false, the if statement will not run. At this point, we would then assign a true value in the boolean value of the array. If there is a scenario where there is a character that is already there, the if statement will activate and return false (saying the string does not have unique characters. If there is a scenario where the if statement isn’t activated, then we will return true. This means that all the characters are in fact unique.
