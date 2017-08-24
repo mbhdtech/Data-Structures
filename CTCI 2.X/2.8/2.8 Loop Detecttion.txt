@@ -1,1 +1,1 @@
-Given two strings, write a method to decide if one is a permutation of the other. 
+Given a circular linked list, implement an algorithm that returns the node at the beginnig of the loop.
