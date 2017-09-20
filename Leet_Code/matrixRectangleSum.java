@@ -1,3 +1,8 @@
+/*
+  This program finds the sum of a sub matrix (a rectangle) with the given coordinates: (Row1, Col1) & (Row2, Col2)
+*/
+
+
 public class matrixRectangleSum{
     public static void main(String[]args){
 
