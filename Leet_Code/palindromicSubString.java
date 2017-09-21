@@ -1,3 +1,7 @@
+/*
+    This program takes in a String and returns the largest palindromic substring
+ */
+
 import java.util.*;
 
 public class palindromicSubString{
