@@ -34,6 +34,10 @@ public class Solution{
 
         }
 
+        if(comp.toString().length() > str.length()) {
+            return str;
+        }
+
         return comp.toString();
     }
 
